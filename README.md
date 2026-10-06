@@ -41,24 +41,15 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="docs/screenshots/console.png" alt="terraform plan"><br>
+      <img src="docs/screenshots/Console.png" alt="terraform plan"><br>
       <b>Execution Plan Preview</b>
     </td>
     <td align="center" width="50%">
-      <img src="docs/screenshots/outputs.png" alt="terraform outputs"><br>
+      <img src="docs/screenshots/output.png" alt="terraform outputs"><br>
       <b>Outputs (Public IPs and Bucket Names)</b>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="docs/screenshots/ssh-connection.png" alt="SSH into EC2"><br>
-      <b>SSH Access with the Generated Key Pair</b>
-    </td>
-    <td align="center" width="50%">
-      <img src="docs/screenshots/terraform-destroy.png" alt="terraform destroy"><br>
-      <b>Clean Teardown with <code>terraform destroy</code></b>
-    </td>
-  </tr>
+  
 </table>
 
 ---
