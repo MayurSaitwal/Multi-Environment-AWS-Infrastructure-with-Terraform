@@ -27,19 +27,11 @@
 
 ## 📸 Project Screenshots
 
-### ⚡ Infrastructure Created by One Command
-
-<div align="center">
-  <img src="docs/screenshots/terraform-apply.png" alt="terraform apply output" width="90%">
-  <p><i><code>terraform apply</code> creating the complete infrastructure for every environment</i></p>
-</div>
-
-### ☁️ Resources Live on AWS
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="docs/screenshots/ec2-instances.png" alt="EC2 Instances"><br>
+      <img src="docs/screenshots/EC2.png" alt="EC2 Instances"><br>
       <b>EC2 Instances (dev, staging, prod)</b>
     </td>
     <td align="center" width="50%">
@@ -49,11 +41,11 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="docs/screenshots/terraform-plan.png" alt="terraform plan"><br>
+      <img src="docs/screenshots/console.png" alt="terraform plan"><br>
       <b>Execution Plan Preview</b>
     </td>
     <td align="center" width="50%">
-      <img src="docs/screenshots/terraform-outputs.png" alt="terraform outputs"><br>
+      <img src="docs/screenshots/outputs.png" alt="terraform outputs"><br>
       <b>Outputs (Public IPs and Bucket Names)</b>
     </td>
   </tr>
