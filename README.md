@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏗️ Multi-Environment AWS Infrastructure with Terraform
+# 🏗️ Multi-Environment AWS Infrastructure with 
 
 ### Dev · Staging · Prod — EC2 and S3 provisioned from one reusable module, with zero manual console work
 
